@@ -41,7 +41,7 @@ pods
 .workspace
 .cluster
 
-# Geode specifics
+# GemFire specifics
 *.gfs
 
 # Bundle specifics

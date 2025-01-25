@@ -14,9 +14,9 @@
 # then set none=1.
 #
 
-geode=1
+#geode=1
 #coherence=
-#gemfire=
+gemfire=10
 #hadoop=
 #hazelcast=
 #hazelcast-enterprise=
